@@ -1,3 +1,0 @@
-RØDE
-
-<i aria-hidden="true" class="far fa-bars"></i>
