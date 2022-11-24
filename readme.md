@@ -2,7 +2,7 @@
 
 # 🔗**Project 18**
 
-# 🌟 **Shopify UI Clone** 🌟
+# 🌟 **RODE UI Clone** 🌟
 
 # 📌 ** Project Link 👇** 
 
