@@ -6,7 +6,7 @@
 
 # 📌 ** Project Link 👇** 
 
-**[RODE_UI_Clone](https://stirring-cucurucho-e7292d.netlify.app/)**
+**[RODE_UI_Clone](https://ankit110.github.io/RODE-UI-Clone/)**
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
